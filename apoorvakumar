@@ -1,0 +1,10 @@
+sum=0
+
+start = int(input("Enter Start value:"))
+
+end   = int(input("Enter End value:"))
+
+for i in range(start,end+1):
+
+  sum=sum + i
+print(sum)  

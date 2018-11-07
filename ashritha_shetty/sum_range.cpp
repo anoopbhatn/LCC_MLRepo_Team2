@@ -1,5 +1,5 @@
 /*
-Created on Novemberer 11, 2018
+Created on Novemberer 08, 2018
 @author: ashritha27
 */
 //Program to find the sum of numbers in a given range in C++

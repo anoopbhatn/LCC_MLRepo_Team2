@@ -9,12 +9,23 @@ using namespace std;
 
 int main()
 {
+    //Declaring the range variables and initialising the sum variable
     int min,max,sum=0;
+    
     cout<<"Enter the limits";
-    cin>>min;cin>>max;
-    for(int i=min;i<=max;i++){
-    sum+=i;
+    
+    //Read the minimum and maximum input
+    cin>>min;
+    cin>>max;
+    
+    //Summing all the numbers in the given range using for loop
+    for(int i=min;i<=max;i++)
+    {
+         sum+=i;
     }
+    
+    //Prints the sum of numbers in the given range 
     cout<<sum;
+    
     return 0;
 }

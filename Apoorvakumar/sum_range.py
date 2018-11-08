@@ -7,7 +7,7 @@
 
 
 #initializing the variable to store sum
-sum=0;
+sum=0
 #inputing start value  
 start = int(input("Enter Start value:"))
 #inputing end value

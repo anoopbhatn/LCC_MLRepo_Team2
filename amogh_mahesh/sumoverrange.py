@@ -1,6 +1,7 @@
 '''
 Created on 8 Nov , 2018
 By @amogh_mahesh
+program to sum all the integers between two given numbers
 '''
 
 #Inputting Start Vaue

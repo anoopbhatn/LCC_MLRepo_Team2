@@ -13,7 +13,7 @@ start = int(input("Enter Start value:"))
 #inputing end value
 end   = int(input("Enter End value:"))
 #for loop to determine the sum of all integers in the range [A,B]
- for i in range(start,end+1):
-sum=sum + i
+for i in range(start,end+1):
+   sum=sum + i
 #printing sum value
 print(sum)  
